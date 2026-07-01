@@ -1,0 +1,215 @@
+canonical_identifier: bkk:krp/KR6r0135/v1
+canonical_location: https://kanripo.org/bkk/KR6r0135/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 續清涼傳
+  identifiers:
+    alt_id:
+    - T51n2100
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T51/T51n2100.xml
+    old_id: T51n2100
+  edition:
+    short: bkk
+editions:
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6r0135_000.yaml, hash: 'sha256:a21a9e395324bf1f08b0e690e8efe1112a491c7f91e34a9fda0bfed9c02f4271'}
+  - {seq: 1, filename: KR6r0135_001.yaml, hash: 'sha256:8c67214546324d0e4a6a775b566448ebc489aa468ab28a8ce23c6924398b6a7a'}
+  - {seq: 2, filename: KR6r0135_002.yaml, hash: 'sha256:45e438389dd4e7cc6f548fb414470c75abac355a37ffcb98175643fbf230511a'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6r0135_000.markers.yaml, hash: 'sha256:b533d5a6a80cac5be1ba28d5ce43de4da13f7c67cf108c4331d143837e9273b5'}
+  - {seq: 1, role: markers, filename: assets/KR6r0135_001.markers.yaml, hash: 'sha256:8a72c86db235112b73803908cd8f189627372de3caa68aa5b6028e5ab28f909d'}
+  - {seq: 2, role: markers, filename: assets/KR6r0135_002.markers.yaml, hash: 'sha256:11944c04ed74db17911f8f21a7383eb2847103650517e81e189eb74f67334646'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6r0135_T_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 重雕清涼傳序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0135_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 4064
+  label: 續清涼傳卷上
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0135_T_001-mulu-1
+    span:
+    - body
+    - 3368
+    - 3368
+  label: 清涼山賦
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0135_T_001-mulu-2
+    span:
+    - body
+    - 3650
+    - 3650
+  label: 東臺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0135_T_001-mulu-3
+    span:
+    - body
+    - 3708
+    - 3708
+  label: 南臺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0135_T_001-mulu-4
+    span:
+    - body
+    - 3766
+    - 3766
+  label: 西臺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0135_T_001-mulu-5
+    span:
+    - body
+    - 3824
+    - 3824
+  label: 北臺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0135_T_001-mulu-6
+    span:
+    - body
+    - 3882
+    - 3882
+  label: 中臺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0135_T_001-mulu-7
+    span:
+    - body
+    - 3940
+    - 3940
+  label: 總詩
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0135_T_001-mulu-8
+    span:
+    - body
+    - 3998
+    - 3998
+  label: 題古并淨明塔律詩一首
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0135_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 6643
+  label: 續清涼傳卷下
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0135_T_002-mulu-1
+    span:
+    - body
+    - 1667
+    - 1667
+  label: 附傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0135_T_002-mulu-2
+    span:
+    - body
+    - 2323
+    - 2323
+  label: 又述二頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0135_T_002-mulu-3
+    span:
+    - body
+    - 3878
+    - 3878
+  label: 題五臺真容院
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0135_T_002-mulu-4
+    span:
+    - body
+    - 4142
+    - 4142
+  label: 臺山瑞應記
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0135_T_002-mulu-5
+    span:
+    - body
+    - 4951
+    - 4951
+  label: 後序
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0135_T_002-mulu-6
+    span:
+    - body
+    - 5896
+    - 5896
+  label: 古并崇善禪寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0135_T_002-mulu-7
+    span:
+    - body
+    - 6154
+    - 6154
+  label: 四庫未收書目提要
+  type: mulu
+  level: 1
+hash: sha256:551064401b56f4509e13163f010ecf1553bf98bd0f48c06c67cee0dc14c6d196
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

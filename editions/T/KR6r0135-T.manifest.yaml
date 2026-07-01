@@ -1,0 +1,210 @@
+canonical_identifier: bkk:krp/KR6r0135/T/v1
+canonical_location: https://kanripo.org/bkk/KR6r0135/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 續清涼傳
+  identifiers:
+    krp: KR6r0135
+    cbeta: T51n2100
+    cbeta_old_id: T51n2100
+    authorityid: CA0002597
+    json_key: T2100
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T51/T51n2100.xml
+    old_id: T51n2100
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6r0135_000-T.yaml, hash: 'sha256:264bf197ede778f4aa8eef067c86abaf5cda4ef140c38a95c969cd9e08c6ac37'}
+  - {seq: 1, filename: KR6r0135_001-T.yaml, hash: 'sha256:09c8ed98cc22f0aa807cfb1140ad951ae3e092f9b745e98cd8ed78aac50367da'}
+  - {seq: 2, filename: KR6r0135_002-T.yaml, hash: 'sha256:465568c1f8dfa7cc164f57c1000e4b2206eec5fb08aac26668f7021316fa5fdc'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6r0135_000-T.markers.yaml, hash: 'sha256:831bae0c4d7e186947c4a385f09a86d8a7609d5bd85c8e4e7e95ef977826e423'}
+  - {seq: 1, role: markers, filename: assets/KR6r0135_001-T.markers.yaml, hash: 'sha256:6d92860698cde48f44d1fdd382b9652d34f46c9c2948cb331d8a5f227ca558a4'}
+  - {seq: 2, role: markers, filename: assets/KR6r0135_002-T.markers.yaml, hash: 'sha256:22a0144283e37fe37819ee8cbc1423fc7484caa143d316d321274bb3d1b72cc1'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6r0135_T_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 重雕清涼傳序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0135_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 4064
+  label: 續清涼傳卷上
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0135_T_001-mulu-1
+    span:
+    - body
+    - 3368
+    - 3368
+  label: 清涼山賦
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0135_T_001-mulu-2
+    span:
+    - body
+    - 3650
+    - 3650
+  label: 東臺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0135_T_001-mulu-3
+    span:
+    - body
+    - 3708
+    - 3708
+  label: 南臺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0135_T_001-mulu-4
+    span:
+    - body
+    - 3766
+    - 3766
+  label: 西臺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0135_T_001-mulu-5
+    span:
+    - body
+    - 3824
+    - 3824
+  label: 北臺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0135_T_001-mulu-6
+    span:
+    - body
+    - 3882
+    - 3882
+  label: 中臺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0135_T_001-mulu-7
+    span:
+    - body
+    - 3940
+    - 3940
+  label: 總詩
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0135_T_001-mulu-8
+    span:
+    - body
+    - 3998
+    - 3998
+  label: 題古并淨明塔律詩一首
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0135_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 6643
+  label: 續清涼傳卷下
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0135_T_002-mulu-1
+    span:
+    - body
+    - 1667
+    - 1667
+  label: 附傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0135_T_002-mulu-2
+    span:
+    - body
+    - 2323
+    - 2323
+  label: 又述二頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0135_T_002-mulu-3
+    span:
+    - body
+    - 3878
+    - 3878
+  label: 題五臺真容院
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0135_T_002-mulu-4
+    span:
+    - body
+    - 4142
+    - 4142
+  label: 臺山瑞應記
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0135_T_002-mulu-5
+    span:
+    - body
+    - 4951
+    - 4951
+  label: 後序
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0135_T_002-mulu-6
+    span:
+    - body
+    - 5896
+    - 5896
+  label: 古并崇善禪寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0135_T_002-mulu-7
+    span:
+    - body
+    - 6154
+    - 6154
+  label: 四庫未收書目提要
+  type: mulu
+  level: 1
+hash: sha256:1af237b7185efd07f3cd53135ccf3b0b7e00be52ad580a277611eb74c453ccc3
