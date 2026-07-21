@@ -21,11 +21,11 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6r0135_000.yaml, hash: 'sha256:2a91393360f21238928c48e212d53723d253b431a2545e87050a9d346d9bd719'}
+  - {seq: 0, filename: KR6r0135_000.yaml, hash: 'sha256:69f6a98cf219f84e188bb3a872d42a76d4721b040674b3d0bed67d58cb6b4ebc'}
   - {seq: 1, filename: KR6r0135_001.yaml, hash: 'sha256:49626a137a3c19daf57c8d2f2e6e414f23413fa13aaaabecb6da3306aafb81e7'}
   - {seq: 2, filename: KR6r0135_002.yaml, hash: 'sha256:257839553024da95b282a1b5b42698965f5b09a96bc0810fa0cc90055128914d'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6r0135_000.markers.yaml, hash: 'sha256:2b0dc54975471f039d4606913d50aa9f55aabf29e401010543d106f0873ffefd'}
+  - {seq: 0, role: markers, filename: assets/KR6r0135_000.markers.yaml, hash: 'sha256:fe6da1759c36ee3e9ae89d5b46ad7eea36d688d1c958c78da5ffdfdb9525f19f'}
   - {seq: 1, role: markers, filename: assets/KR6r0135_001.markers.yaml, hash: 'sha256:ba7b4af5de44cfda10a0659d811744a27e278bf926b7bb58cf3abfc2aecc4536'}
   - {seq: 2, role: markers, filename: assets/KR6r0135_002.markers.yaml, hash: 'sha256:b7484d47107bd871caed7c38454ff81d6ff5d03db46bdfd601a3110f3e4abc76'}
 table_of_contents:
@@ -33,7 +33,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6r0135_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 重雕清涼傳序
@@ -209,7 +209,7 @@ table_of_contents:
   label: 四庫未收書目提要
   type: mulu
   level: 1
-hash: sha256:ec2aa800ec00d8530d81940e9ff26bbe0c0668a39f6b770507750a57dc620a03
+hash: sha256:f3775025655e699684bab74634df76585c7df6f1d9e8387d405b49397f694e85
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
